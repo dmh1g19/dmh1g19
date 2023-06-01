@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I'm currently working on block chain tehnology, ML and language design
+🔭 I'm currently working on block chain tehnology, ML and language design <break>
 👯 I’m looking to collaborate on decentralized technologies
 🤔 I’m looking for help with integrating parsing methods for solidity smart contracts
 💬 Ask me about any collab opportunities 
